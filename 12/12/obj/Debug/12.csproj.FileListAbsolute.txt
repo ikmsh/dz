@@ -1,0 +1,15 @@
+C:\Users\Нурия\Desktop\kira\12\12\obj\Debug\12.csproj.AssemblyReference.cache
+C:\Users\Нурия\Desktop\kira\12\12\obj\Debug\MainWindow.g.cs
+C:\Users\Нурия\Desktop\kira\12\12\obj\Debug\App.g.cs
+C:\Users\Нурия\Desktop\kira\12\12\obj\Debug\12_MarkupCompile.cache
+C:\Users\Нурия\Desktop\kira\12\12\obj\Debug\12_MarkupCompile.lref
+C:\Users\Нурия\Desktop\kira\12\12\bin\Debug\12.exe.config
+C:\Users\Нурия\Desktop\kira\12\12\bin\Debug\12.exe
+C:\Users\Нурия\Desktop\kira\12\12\bin\Debug\12.pdb
+C:\Users\Нурия\Desktop\kira\12\12\obj\Debug\MainWindow.baml
+C:\Users\Нурия\Desktop\kira\12\12\obj\Debug\12.g.resources
+C:\Users\Нурия\Desktop\kira\12\12\obj\Debug\_12.Properties.Resources.resources
+C:\Users\Нурия\Desktop\kira\12\12\obj\Debug\12.csproj.GenerateResource.cache
+C:\Users\Нурия\Desktop\kira\12\12\obj\Debug\12.csproj.CoreCompileInputs.cache
+C:\Users\Нурия\Desktop\kira\12\12\obj\Debug\12.exe
+C:\Users\Нурия\Desktop\kira\12\12\obj\Debug\12.pdb

@@ -22,7 +22,7 @@ namespace _12
     {
         public MainWindow()
         {
-            InitializeComponent();
+
         }
     }
 }

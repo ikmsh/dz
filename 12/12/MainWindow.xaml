@@ -17,13 +17,13 @@
             <MenuItem Header="_О пporpaммe" Width="148" />
         </Menu>
 
-        <ToolBar Margin="521,39,48,264">
+        <ToolBar Margin="211,126,320,183">
             <Button>
-                <Image Source="C:\Users\student\Desktop\kk\git\git\11\ллл.png" Height="86" Width="77"></Image>
+                <Image Source="C:\Users\Нурия\Desktop\kira\12\12\12\1.jpg" Height="86" Width="77"></Image>
             </Button>
             <Separator/>
             <Button Height="84" Width="95">
-                <Image Source="C:\Users\student\Desktop\kk\git\git\11\фыаф.png" Height="54" Width="53"></Image>
+                <Image Source="C:\Users\Нурия\Desktop\kira\12\12\12\2.jpg" Height="78" Width="89"></Image>
             </Button>
         </ToolBar>
 
